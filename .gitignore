@@ -1,3 +1,8 @@
 images/
 *.mp3
 train.py
+tmp.wav
+train.wav
+td_utils.py
+__pycache__/
+.ipynb_checkpoints/
