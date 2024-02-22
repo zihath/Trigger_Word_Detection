@@ -1,4 +1,4 @@
-# [How to do Real Time Trigger Word Detection with Keras](https://www.dlology.com/blog/how-to-do-real-time-trigger-word-detection-with-keras/).
+# How to do Real Time Trigger Word Detection with Keras.
 
 Trigger word detection, aka. wake/hot word detection. Like Amazon's "Alexa" or Google Home's "OK, Google" to wake them up.
 Will it be cool to build one yourself and run it in **Real-time**?
