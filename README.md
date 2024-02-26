@@ -28,6 +28,6 @@ If you want to learn about data preparation and model training. In the opened br
 Trigger word detection - v2.ipynb
 ```
 Download the train/dev Data from the releases if you want to follow along the notebook. Extract `XY_dev` and `XY_train` folders to the root of the project directory.
-##Results
+### Results
 You can result in the chime_output.wav file. 
 Happy coding! 
