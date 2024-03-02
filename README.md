@@ -5,8 +5,6 @@ Will it be cool to build one yourself and run it in **Real-time**?
 
 In this post, I am going to show you exactly how to build a Keras model to do the same thing from scratch. No third party voice API or network connection required to make it functional.
 
-Background information is shown in my blog post.
-
 ## How to Run
 Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) and [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed
 ### Clone or download this repo
